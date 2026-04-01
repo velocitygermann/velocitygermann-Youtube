@@ -214,10 +214,10 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
                         is_story=False
                     )
                 elif platform_name == "youtube":
-                    # Generate German metadata for YouTube
+                    # Generate German metadata for YouTube with phrases
                     num_phrases = len(phrases) if phrases else 5
                     from upload_to_youtube import generate_video_metadata
-                    yt_title, yt_description, yt_tags = generate_video_metadata(category, num_phrases)
+                    yt_title, yt_description, yt_tags = generate_video_metadata(category, num_phrases, phrases)
                     
                     upload_result = upload_func(
                         video_path=video_path,
