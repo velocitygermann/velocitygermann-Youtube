@@ -59,7 +59,37 @@
       "german": "Sprich laut, deine Stimme zählt.",
       "category": "Confidence",
       "generated_at": "2026-04-01T22:36:31.002596"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "german": "Atmen ein, atmen aus.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-01T23:52:09.002701"
+    },
+    {
+      "english": "Find your calm center.",
+      "german": "Finde dein ruhiges Zentrum.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-01T23:52:09.002713"
+    },
+    {
+      "english": "Let worries drift away.",
+      "german": "Lass Sorgen treiben davon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-01T23:52:09.002716"
+    },
+    {
+      "english": "Quiet mind, happy heart.",
+      "german": "Stiller Geist, frohes Herz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-01T23:52:09.002719"
+    },
+    {
+      "english": "Be present, right now.",
+      "german": "Sei präsent, genau jetzt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-01T23:52:09.002721"
     }
   ],
-  "last_updated": "2026-04-01T22:36:31.002597"
+  "last_updated": "2026-04-01T23:52:09.002724"
 }
