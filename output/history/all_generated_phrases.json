@@ -29,7 +29,37 @@
       "german": "Deutsche Bücher lesen, zum Spaß.",
       "category": "Purpose",
       "generated_at": "2026-04-01T21:30:56.783745"
+    },
+    {
+      "english": "You got this, breathe deep.",
+      "german": "Du schaffst das, tief atmen.",
+      "category": "Confidence",
+      "generated_at": "2026-04-01T22:36:31.002581"
+    },
+    {
+      "english": "Just try, it's okay.",
+      "german": "Versuch's einfach, es ist okay.",
+      "category": "Confidence",
+      "generated_at": "2026-04-01T22:36:31.002592"
+    },
+    {
+      "english": "One step, then another.",
+      "german": "Ein Schritt, dann noch einer.",
+      "category": "Confidence",
+      "generated_at": "2026-04-01T22:36:31.002593"
+    },
+    {
+      "english": "Mistakes are learning, embrace them.",
+      "german": "Fehler sind Lernen, nimm sie an.",
+      "category": "Confidence",
+      "generated_at": "2026-04-01T22:36:31.002594"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "german": "Sprich laut, deine Stimme zählt.",
+      "category": "Confidence",
+      "generated_at": "2026-04-01T22:36:31.002596"
     }
   ],
-  "last_updated": "2026-04-01T21:30:56.783749"
+  "last_updated": "2026-04-01T22:36:31.002597"
 }
