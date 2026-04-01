@@ -62,24 +62,47 @@ def get_authenticated_service():
 
     return build('youtube', 'v3', credentials=creds)
 
-def generate_video_metadata(category: str, num_phrases: int):
+def generate_video_metadata(category: str, num_phrases: int, phrases: list = None):
     """Generate German title, description, and tags for the video"""
 
     title = f"Deutsch Lernen: {num_phrases} Essentielle {category} Sätze 🇩🇪"
 
-    description = f"""Lerne {num_phrases} essentielle deutsche Sätze für {category}!
+    # Build description with phrases if provided
+    description_lines = [
+        f"🇩🇪 Learn German with Velocity German! 🇩🇪",
+        f"",
+        f"📚 Category: {category}",
+        f"",
+        f"🎯 Master German one phrase at a time! Today's {category} lesson:",
+        f""
+    ]
 
-Perfekt für Anfänger, die Deutsch lernen. Jeder Satz beinhaltet:
-✅ Englischer Satz
-✅ Deutsche Übersetzung
-✅ Ausspracheführer
-✅ Verwendungskontext
+    # Add all phrases with emojis (same format as Facebook/Instagram)
+    if phrases:
+        emojis = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"]
+        for i, phrase in enumerate(phrases[:5], 0):
+            emoji = emojis[i] if i < len(emojis) else f"{i+1}."
+            description_lines.append(f"{emoji} {phrase['english']}")
+            description_lines.append(f"   📍 {phrase['german']}")
+            description_lines.append(f"   🔊 [{phrase.get('pronunciation', '')}]")
+            description_lines.append("")
 
-Abonniere für tägliche Deutschstunden!
+    # Call to action and hashtags
+    description_lines.extend([
+        f"💡 Tip: Repeat each phrase out loud 3 times!",
+        f"👍 Like this video if you learned something new!",
+        f"💬 Comment your favorite phrase below!",
+        f"🔔 Subscribe for daily German lessons!",
+        f"",
+        f"📖 Pronunciation Guide:",
+        f"   The phonetic spelling in brackets helps you say it correctly!",
+        f"",
+        f"#DeutschLernen #DeutschStunden #DeutschFürAnfänger #SprachenLernen",
+        f"#Deutsch #Bildung #Tutorial #TäglichesDeutsch #{category.replace(' ', '')}",
+        f"#LearnGerman #GermanLessons #VelocityGerman"
+    ])
 
-#DeutschLernen #DeutschStunden #DeutschFürAnfänger #SprachenLernen
-#Deutsch #Bildung #Tutorial #TäglichesDeutsch #{category.replace(' ', '')}
-"""
+    description = "\n".join(description_lines)
 
     tags = [
         "deutsch lernen",
@@ -92,7 +115,9 @@ Abonniere für tägliche Deutschstunden!
         category.lower(),
         "bildung",
         "tägliches deutsch",
-        "velocity german"
+        "velocity german",
+        "learn german",
+        "german lessons"
     ]
 
     return title, description, tags
