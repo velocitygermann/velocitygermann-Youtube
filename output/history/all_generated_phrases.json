@@ -299,7 +299,37 @@
       "german": "Du bist stärker, als du denkst.",
       "category": "Hope",
       "generated_at": "2026-04-03T15:29:45.032866"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "german": "Mach weiter, hör nicht auf.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-03T17:55:02.955363"
+    },
+    {
+      "english": "Slowly, but surely, you'll win.",
+      "german": "Langsam, aber sicher, gewinnst du.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-03T17:55:02.955372"
+    },
+    {
+      "english": "One step, at a time.",
+      "german": "Ein Schritt, nach dem anderen.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-03T17:55:02.955374"
+    },
+    {
+      "english": "Never give up hope, friend.",
+      "german": "Gib die Hoffnung nie auf, Freund.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-03T17:55:02.955375"
+    },
+    {
+      "english": "Your effort, will pay off.",
+      "german": "Deine Mühe, wird sich lohnen.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-03T17:55:02.955376"
     }
   ],
-  "last_updated": "2026-04-03T15:29:45.032868"
+  "last_updated": "2026-04-03T17:55:02.955378"
 }
