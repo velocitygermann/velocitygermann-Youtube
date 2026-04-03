@@ -329,7 +329,37 @@
       "german": "Deine Mühe, wird sich lohnen.",
       "category": "Perseverance",
       "generated_at": "2026-04-03T17:55:02.955376"
+    },
+    {
+      "english": "Inner peace, grows within.",
+      "german": "Innerer Frieden, wächst in dir.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-03T20:05:28.069697"
+    },
+    {
+      "english": "Silence speaks volumes.",
+      "german": "Stille spricht Bände.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-03T20:05:28.069707"
+    },
+    {
+      "english": "Embrace the stillness.",
+      "german": "Umarme die Stille.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-03T20:05:28.069708"
+    },
+    {
+      "english": "Peace starts with you.",
+      "german": "Frieden beginnt bei dir.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-03T20:05:28.069709"
+    },
+    {
+      "english": "Listen to your soul.",
+      "german": "Höre auf deine Seele.",
+      "category": "Inner Peace",
+      "generated_at": "2026-04-03T20:05:28.069710"
     }
   ],
-  "last_updated": "2026-04-03T17:55:02.955378"
+  "last_updated": "2026-04-03T20:05:28.069712"
 }
