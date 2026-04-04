@@ -449,7 +449,37 @@
       "german": "Warte darauf, die Belohnung ist nah.",
       "category": "Patience",
       "generated_at": "2026-04-04T17:07:20.004931"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "german": "Sei mutig, probier Neues.",
+      "category": "Courage",
+      "generated_at": "2026-04-04T19:57:24.117217"
+    },
+    {
+      "english": "Face your fears, stand tall.",
+      "german": "Stell dich deinen Ängsten, steh auf.",
+      "category": "Courage",
+      "generated_at": "2026-04-04T19:57:24.117226"
+    },
+    {
+      "english": "Take a leap, believe in you.",
+      "german": "Mach einen Sprung, glaub an dich.",
+      "category": "Courage",
+      "generated_at": "2026-04-04T19:57:24.117227"
+    },
+    {
+      "english": "Bold steps, lead to success.",
+      "german": "Mutige Schritte, führen zum Erfolg.",
+      "category": "Courage",
+      "generated_at": "2026-04-04T19:57:24.117228"
+    },
+    {
+      "english": "Don't hesitate, just begin.",
+      "german": "Zögere nicht, fang einfach an.",
+      "category": "Courage",
+      "generated_at": "2026-04-04T19:57:24.117229"
     }
   ],
-  "last_updated": "2026-04-04T17:07:20.004933"
+  "last_updated": "2026-04-04T19:57:24.117231"
 }
