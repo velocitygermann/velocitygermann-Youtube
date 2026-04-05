@@ -479,7 +479,37 @@
       "german": "Zögere nicht, fang einfach an.",
       "category": "Courage",
       "generated_at": "2026-04-04T19:57:24.117229"
+    },
+    {
+      "english": "So happy, right now.",
+      "german": "So froh, jetzt.",
+      "category": "Joy",
+      "generated_at": "2026-04-05T06:05:48.241274"
+    },
+    {
+      "english": "What a lovely day!",
+      "german": "Was für ein schöner Tag!",
+      "category": "Joy",
+      "generated_at": "2026-04-05T06:05:48.241283"
+    },
+    {
+      "english": "Feeling great, truly.",
+      "german": "Fühle mich toll, wirklich.",
+      "category": "Joy",
+      "generated_at": "2026-04-05T06:05:48.241284"
+    },
+    {
+      "english": "This is wonderful!",
+      "german": "Das ist wunderbar!",
+      "category": "Joy",
+      "generated_at": "2026-04-05T06:05:48.241285"
+    },
+    {
+      "english": "Pure joy, yes!",
+      "german": "Pure Freude, ja!",
+      "category": "Joy",
+      "generated_at": "2026-04-05T06:05:48.241286"
     }
   ],
-  "last_updated": "2026-04-04T19:57:24.117231"
+  "last_updated": "2026-04-05T06:05:48.241288"
 }
