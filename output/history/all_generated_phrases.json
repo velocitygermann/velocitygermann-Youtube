@@ -509,7 +509,37 @@
       "german": "Pure Freude, ja!",
       "category": "Joy",
       "generated_at": "2026-04-05T06:05:48.241286"
+    },
+    {
+      "english": "Keep going, you're improving.",
+      "german": "Mach weiter, du verbesserst dich.",
+      "category": "Confidence",
+      "generated_at": "2026-04-05T23:04:46.627279"
+    },
+    {
+      "english": "It's a journey, enjoy it.",
+      "german": "Es ist eine Reise, genieße sie.",
+      "category": "Confidence",
+      "generated_at": "2026-04-05T23:04:46.627287"
+    },
+    {
+      "english": "Don't be afraid, just try.",
+      "german": "Hab keine Angst, versuch's nur.",
+      "category": "Confidence",
+      "generated_at": "2026-04-05T23:04:46.627289"
+    },
+    {
+      "english": "You're doing great, really.",
+      "german": "Du machst das toll, wirklich.",
+      "category": "Confidence",
+      "generated_at": "2026-04-05T23:04:46.627290"
+    },
+    {
+      "english": "Every word counts, keep speaking.",
+      "german": "Jedes Wort zählt, sprich weiter.",
+      "category": "Confidence",
+      "generated_at": "2026-04-05T23:04:46.627291"
     }
   ],
-  "last_updated": "2026-04-05T06:05:48.241288"
+  "last_updated": "2026-04-05T23:04:46.627293"
 }
