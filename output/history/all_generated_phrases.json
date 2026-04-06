@@ -629,7 +629,37 @@
       "german": "Steh aufrecht, sei mutig jetzt.",
       "category": "Strength",
       "generated_at": "2026-04-06T18:37:59.736869"
+    },
+    {
+      "english": "A little progress, every day.",
+      "german": "Ein kleiner Fortschritt, jeden Tag.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T20:59:50.455315"
+    },
+    {
+      "english": "Focus on the good, it grows.",
+      "german": "Konzentriere dich aufs Gute, es wächst.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T20:59:50.455328"
+    },
+    {
+      "english": "Tomorrow is, another chance.",
+      "german": "Morgen ist, eine neue Chance.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T20:59:50.455331"
+    },
+    {
+      "english": "Hold on tight, it gets better.",
+      "german": "Halte fest, es wird besser.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T20:59:50.455362"
+    },
+    {
+      "english": "Brighter days, are coming.",
+      "german": "Hellere Tage, kommen bald.",
+      "category": "Hope",
+      "generated_at": "2026-04-06T20:59:50.455365"
     }
   ],
-  "last_updated": "2026-04-06T18:37:59.736871"
+  "last_updated": "2026-04-06T20:59:50.455369"
 }
