@@ -809,7 +809,37 @@
       "german": "Zeige Mitgefühl, weit.",
       "category": "Kindness",
       "generated_at": "2026-04-07T21:31:51.497763"
+    },
+    {
+      "english": "You are, my sunshine.",
+      "german": "Du bist, mein Sonnenschein.",
+      "category": "Love",
+      "generated_at": "2026-04-07T23:56:30.000849"
+    },
+    {
+      "english": "My love, for you, grows.",
+      "german": "Meine Liebe, zu dir, wächst.",
+      "category": "Love",
+      "generated_at": "2026-04-07T23:56:30.000857"
+    },
+    {
+      "english": "You are, my dream.",
+      "german": "Du bist, mein Traum.",
+      "category": "Love",
+      "generated_at": "2026-04-07T23:56:30.000858"
+    },
+    {
+      "english": "I miss you, so much.",
+      "german": "Ich vermisse dich, sehr.",
+      "category": "Love",
+      "generated_at": "2026-04-07T23:56:30.000860"
+    },
+    {
+      "english": "You are, my soulmate.",
+      "german": "Du bist, mein Seelenverwandter.",
+      "category": "Love",
+      "generated_at": "2026-04-07T23:56:30.000861"
     }
   ],
-  "last_updated": "2026-04-07T21:31:51.497765"
+  "last_updated": "2026-04-07T23:56:30.000862"
 }
