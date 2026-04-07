@@ -779,7 +779,37 @@
       "german": "Wähle Mut, über Komfort, immer.",
       "category": "Positive Life",
       "generated_at": "2026-04-07T19:42:07.391941"
+    },
+    {
+      "english": "Be patient, with everyone.",
+      "german": "Sei geduldig, mit jedem.",
+      "category": "Kindness",
+      "generated_at": "2026-04-07T21:31:51.497751"
+    },
+    {
+      "english": "Spread good vibes, near.",
+      "german": "Verbreite gute Laune, nah.",
+      "category": "Kindness",
+      "generated_at": "2026-04-07T21:31:51.497759"
+    },
+    {
+      "english": "Say nice words, often.",
+      "german": "Sage nette Worte, oft.",
+      "category": "Kindness",
+      "generated_at": "2026-04-07T21:31:51.497761"
+    },
+    {
+      "english": "Give with heart, freely.",
+      "german": "Gib mit Herz, frei.",
+      "category": "Kindness",
+      "generated_at": "2026-04-07T21:31:51.497762"
+    },
+    {
+      "english": "Show compassion, widely.",
+      "german": "Zeige Mitgefühl, weit.",
+      "category": "Kindness",
+      "generated_at": "2026-04-07T21:31:51.497763"
     }
   ],
-  "last_updated": "2026-04-07T19:42:07.391946"
+  "last_updated": "2026-04-07T21:31:51.497765"
 }
