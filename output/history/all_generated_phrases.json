@@ -929,7 +929,37 @@
       "german": "So erfreut, sehr.",
       "category": "Joy",
       "generated_at": "2026-04-08T19:49:59.347615"
+    },
+    {
+      "english": "Little steps, much progress.",
+      "german": "Kleine Schritte, viel Fortschritt.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T21:31:25.079150"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "german": "Hör mehr zu, sprich weniger.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T21:31:25.079161"
+    },
+    {
+      "english": "Mistakes, are teachers.",
+      "german": "Fehler, sind Lehrer.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T21:31:25.079162"
+    },
+    {
+      "english": "Practice daily, grow daily.",
+      "german": "Übe täglich, wachse täglich.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T21:31:25.079163"
+    },
+    {
+      "english": "Patience, wins the game.",
+      "german": "Geduld, gewinnt das Spiel.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-08T21:31:25.079164"
     }
   ],
-  "last_updated": "2026-04-08T19:49:59.347617"
+  "last_updated": "2026-04-08T21:31:25.079166"
 }
