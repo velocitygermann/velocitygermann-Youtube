@@ -839,7 +839,37 @@
       "german": "Du bist, mein Seelenverwandter.",
       "category": "Love",
       "generated_at": "2026-04-07T23:56:30.000861"
+    },
+    {
+      "english": "Just be, right now.",
+      "german": "Sei einfach, jetzt hier.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-08T06:12:53.354479"
+    },
+    {
+      "english": "Feel the moment, fully.",
+      "german": "Fühle den Moment, ganz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-08T06:12:53.354488"
+    },
+    {
+      "english": "Quiet mind, calm heart.",
+      "german": "Stiller Geist, ruhiges Herz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-08T06:12:53.354489"
+    },
+    {
+      "english": "One breath, at a time.",
+      "german": "Ein Atemzug, nach dem andern.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-08T06:12:53.354490"
+    },
+    {
+      "english": "Let go, of worries.",
+      "german": "Lass los, die Sorgen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-08T06:12:53.354491"
     }
   ],
-  "last_updated": "2026-04-07T23:56:30.000862"
+  "last_updated": "2026-04-08T06:12:53.354493"
 }
