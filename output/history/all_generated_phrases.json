@@ -959,7 +959,37 @@
       "german": "Geduld, gewinnt das Spiel.",
       "category": "Wisdom",
       "generated_at": "2026-04-08T21:31:25.079164"
+    },
+    {
+      "english": "Practice daily, progress daily.",
+      "german": "Täglich üben, täglich fortschreiten.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-08T23:55:08.305797"
+    },
+    {
+      "english": "Be brave, say hello.",
+      "german": "Sei mutig, sag hallo.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-08T23:55:08.305806"
+    },
+    {
+      "english": "Small steps, big results.",
+      "german": "Kleine Schritte, große Ergebnisse.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-08T23:55:08.305808"
+    },
+    {
+      "english": "Explore, discover, converse.",
+      "german": "Erkunden, entdecken, sprechen.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-08T23:55:08.305809"
+    },
+    {
+      "english": "Your voice, your language.",
+      "german": "Deine Stimme, deine Sprache.",
+      "category": "Inspiration",
+      "generated_at": "2026-04-08T23:55:08.305810"
     }
   ],
-  "last_updated": "2026-04-08T21:31:25.079166"
+  "last_updated": "2026-04-08T23:55:08.305812"
 }
