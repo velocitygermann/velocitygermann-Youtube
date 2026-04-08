@@ -869,7 +869,37 @@
       "german": "Lass los, die Sorgen.",
       "category": "Mindfulness",
       "generated_at": "2026-04-08T06:12:53.354491"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "german": "Danke, für alles.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T16:45:29.416995"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "german": "Ich schätze, deine Hilfe.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T16:45:29.417004"
+    },
+    {
+      "english": "So kind, of you.",
+      "german": "Sehr nett, von dir.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T16:45:29.417005"
+    },
+    {
+      "english": "I am grateful, truly.",
+      "german": "Ich bin dankbar, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T16:45:29.417006"
+    },
+    {
+      "english": "Thanks a lot, friend.",
+      "german": "Vielen Dank, Freund.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-08T16:45:29.417008"
     }
   ],
-  "last_updated": "2026-04-08T06:12:53.354493"
+  "last_updated": "2026-04-08T16:45:29.417010"
 }
