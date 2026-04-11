@@ -1109,7 +1109,37 @@
       "german": "Kleine Siege, machen stark.",
       "category": "Success",
       "generated_at": "2026-04-11T14:58:58.310247"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "german": "Kleine Schritte, großer Fortschritt.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-11T17:50:52.300235"
+    },
+    {
+      "english": "Mistakes are, learning chances.",
+      "german": "Fehler sind, Lernchancen.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-11T17:50:52.300247"
+    },
+    {
+      "english": "Practice makes, perfect, almost.",
+      "german": "Übung macht, fast perfekt.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-11T17:50:52.300248"
+    },
+    {
+      "english": "Celebrate, every small win.",
+      "german": "Feiere, jeden kleinen Sieg.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-11T17:50:52.300249"
+    },
+    {
+      "english": "Keep your goal, in sight.",
+      "german": "Behalte dein Ziel, im Auge.",
+      "category": "Self Improvement",
+      "generated_at": "2026-04-11T17:50:52.300250"
     }
   ],
-  "last_updated": "2026-04-11T14:58:58.310250"
+  "last_updated": "2026-04-11T17:50:52.300252"
 }
