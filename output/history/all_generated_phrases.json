@@ -1319,7 +1319,37 @@
       "german": "Warte auf den richtigen Moment.",
       "category": "Patience",
       "generated_at": "2026-07-25T22:47:18.246919"
+    },
+    {
+      "english": "You can do this, believe it.",
+      "german": "Du schaffst das, glaub es.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T04:22:23.628818"
+    },
+    {
+      "english": "Learning is a journey, enjoy it.",
+      "german": "Lernen ist eine Reise, genieße sie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T04:22:23.628829"
+    },
+    {
+      "english": "Every word counts, speak it.",
+      "german": "Jedes Wort zählt, sprich es.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T04:22:23.628831"
+    },
+    {
+      "english": "Mistakes happen, learn from them.",
+      "german": "Fehler passieren, lerne daraus.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T04:22:23.628832"
+    },
+    {
+      "english": "Practice makes progress, not perfect.",
+      "german": "Übung macht Fortschritt, nicht Perfektion.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T04:22:23.628834"
     }
   ],
-  "last_updated": "2026-07-25T22:47:18.246921"
+  "last_updated": "2026-07-26T04:22:23.628835"
 }
