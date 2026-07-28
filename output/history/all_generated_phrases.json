@@ -1469,7 +1469,37 @@
       "german": "Das war mein Fehler.",
       "category": "Forgiveness",
       "generated_at": "2026-07-28T03:57:23.850094"
+    },
+    {
+      "english": "Grow your mind, slowly.",
+      "german": "Erweitere deinen Geist, langsam.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-28T17:21:19.287364"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "german": "Atme tief, dann sprich.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-28T17:21:19.287374"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "german": "Höre mehr, rede weniger.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-28T17:21:19.287375"
+    },
+    {
+      "english": "Try again, with courage.",
+      "german": "Versuche es, mit Mut.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-28T17:21:19.287376"
+    },
+    {
+      "english": "Make mistakes, learn from them.",
+      "german": "Mach Fehler, lerne daraus.",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-28T17:21:19.287377"
     }
   ],
-  "last_updated": "2026-07-28T03:57:23.850096"
+  "last_updated": "2026-07-28T17:21:19.287378"
 }
