@@ -1439,7 +1439,37 @@
       "german": "Ein Satz, nach dem anderen.",
       "category": "Inspiration",
       "generated_at": "2026-07-27T22:55:49.658057"
+    },
+    {
+      "english": "I'm sorry, truly.",
+      "german": "Es tut mir leid, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T03:57:23.850081"
+    },
+    {
+      "english": "Please, forgive me.",
+      "german": "Bitte, vergib mir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T03:57:23.850092"
+    },
+    {
+      "english": "I regret my actions.",
+      "german": "Ich bedauere mein Handeln.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T03:57:23.850093"
+    },
+    {
+      "english": "Can you accept my apology?",
+      "german": "Kannst du meine Entschuldigung annehmen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T03:57:23.850093"
+    },
+    {
+      "english": "It was my fault.",
+      "german": "Das war mein Fehler.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-28T03:57:23.850094"
     }
   ],
-  "last_updated": "2026-07-27T22:55:49.658059"
+  "last_updated": "2026-07-28T03:57:23.850096"
 }
