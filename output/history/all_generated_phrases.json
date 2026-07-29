@@ -1529,7 +1529,37 @@
       "german": "Bitte, sei nicht böse.",
       "category": "Forgiveness",
       "generated_at": "2026-07-29T17:08:27.756254"
+    },
+    {
+      "english": "Mistakes, help you grow.",
+      "german": "Fehler, helfen dir zu wachsen.",
+      "category": "Growth",
+      "generated_at": "2026-07-29T20:12:30.115105"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "german": "Fortschritt, nicht Perfektion.",
+      "category": "Growth",
+      "generated_at": "2026-07-29T20:12:30.115116"
+    },
+    {
+      "english": "Small steps, lead forward.",
+      "german": "Kleine Schritte, führen vorwärts.",
+      "category": "Growth",
+      "generated_at": "2026-07-29T20:12:30.115118"
+    },
+    {
+      "english": "Embrace the challenge, you face.",
+      "german": "Nimm die Herausforderung, an.",
+      "category": "Growth",
+      "generated_at": "2026-07-29T20:12:30.115119"
+    },
+    {
+      "english": "Keep practicing, you will succeed.",
+      "german": "Übe weiter, du schaffst es.",
+      "category": "Growth",
+      "generated_at": "2026-07-29T20:12:30.115120"
     }
   ],
-  "last_updated": "2026-07-29T17:08:27.756256"
+  "last_updated": "2026-07-29T20:12:30.115121"
 }
