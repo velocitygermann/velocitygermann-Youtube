@@ -1499,7 +1499,37 @@
       "german": "Mach Fehler, lerne daraus.",
       "category": "Self Improvement",
       "generated_at": "2026-07-28T17:21:19.287377"
+    },
+    {
+      "english": "Let's move past this.",
+      "german": "Lass uns das hinter uns lassen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-29T17:08:27.756241"
+    },
+    {
+      "english": "I hope you can understand.",
+      "german": "Ich hoffe, du kannst verstehen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-29T17:08:27.756250"
+    },
+    {
+      "english": "My apologies, sincerely.",
+      "german": "Meine Entschuldigungen, aufrichtig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-29T17:08:27.756252"
+    },
+    {
+      "english": "I was wrong.",
+      "german": "Ich lag falsch.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-29T17:08:27.756253"
+    },
+    {
+      "english": "Please, don't be angry.",
+      "german": "Bitte, sei nicht böse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-29T17:08:27.756254"
     }
   ],
-  "last_updated": "2026-07-28T17:21:19.287378"
+  "last_updated": "2026-07-29T17:08:27.756256"
 }
