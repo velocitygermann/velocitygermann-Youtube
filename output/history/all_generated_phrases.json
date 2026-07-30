@@ -1559,7 +1559,37 @@
       "german": "Übe weiter, du schaffst es.",
       "category": "Growth",
       "generated_at": "2026-07-29T20:12:30.115120"
+    },
+    {
+      "english": "Be brave, try again.",
+      "german": "Sei mutig, versuch's nochmal.",
+      "category": "Courage",
+      "generated_at": "2026-07-30T15:12:13.970155"
+    },
+    {
+      "english": "Take a deep breath, you can do it.",
+      "german": "Atme tief durch, du schaffst das.",
+      "category": "Courage",
+      "generated_at": "2026-07-30T15:12:13.970164"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "german": "Gib nicht auf, mach weiter.",
+      "category": "Courage",
+      "generated_at": "2026-07-30T15:12:13.970166"
+    },
+    {
+      "english": "Face your fears, step forward.",
+      "german": "Stell dich deinen Ängsten, geh voran.",
+      "category": "Courage",
+      "generated_at": "2026-07-30T15:12:13.970167"
+    },
+    {
+      "english": "Believe in yourself, you are strong.",
+      "german": "Glaub an dich, du bist stark.",
+      "category": "Courage",
+      "generated_at": "2026-07-30T15:12:13.970168"
     }
   ],
-  "last_updated": "2026-07-29T20:12:30.115121"
+  "last_updated": "2026-07-30T15:12:13.970169"
 }
