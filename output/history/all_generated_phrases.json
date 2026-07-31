@@ -1619,7 +1619,37 @@
       "german": "Vollkommene Zufriedenheit, gerade jetzt.",
       "category": "Joy",
       "generated_at": "2026-07-30T22:58:59.992986"
+    },
+    {
+      "english": "That's very kind, of you.",
+      "german": "Das ist sehr nett, von dir.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-31T17:22:14.799893"
+    },
+    {
+      "english": "I'm so grateful, really.",
+      "german": "Ich bin so dankbar, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-31T17:22:14.799903"
+    },
+    {
+      "english": "You're a lifesaver, thanks!",
+      "german": "Du bist ein Retter, danke!",
+      "category": "Gratitude",
+      "generated_at": "2026-07-31T17:22:14.799904"
+    },
+    {
+      "english": "This means a lot, thank you.",
+      "german": "Das bedeutet viel, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-31T17:22:14.799905"
+    },
+    {
+      "english": "I can't thank you, enough.",
+      "german": "Ich kann dir, nicht genug danken.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-31T17:22:14.799906"
     }
   ],
-  "last_updated": "2026-07-30T22:58:59.992988"
+  "last_updated": "2026-07-31T17:22:14.799908"
 }
