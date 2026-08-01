@@ -1649,7 +1649,37 @@
       "german": "Ich kann dir, nicht genug danken.",
       "category": "Gratitude",
       "generated_at": "2026-07-31T17:22:14.799906"
+    },
+    {
+      "english": "Tomorrow is a new chance.",
+      "german": "Morgen ist eine neue Chance.",
+      "category": "Hope",
+      "generated_at": "2026-08-01T20:09:21.597944"
+    },
+    {
+      "english": "Keep moving forward, slowly.",
+      "german": "Geh weiter vorwärts, langsam.",
+      "category": "Hope",
+      "generated_at": "2026-08-01T20:09:21.597952"
+    },
+    {
+      "english": "It will get better, soon.",
+      "german": "Es wird besser, bald.",
+      "category": "Hope",
+      "generated_at": "2026-08-01T20:09:21.597954"
+    },
+    {
+      "english": "There is always light.",
+      "german": "Es gibt immer Licht.",
+      "category": "Hope",
+      "generated_at": "2026-08-01T20:09:21.597955"
+    },
+    {
+      "english": "Never give up, hope.",
+      "german": "Gib niemals auf, Hoffnung.",
+      "category": "Hope",
+      "generated_at": "2026-08-01T20:09:21.597956"
     }
   ],
-  "last_updated": "2026-07-31T17:22:14.799908"
+  "last_updated": "2026-08-01T20:09:21.597957"
 }
