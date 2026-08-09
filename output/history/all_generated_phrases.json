@@ -1799,7 +1799,37 @@
       "german": "Jeder Tag, eine neue Chance.",
       "category": "Wisdom",
       "generated_at": "2026-08-05T15:15:18.701866"
+    },
+    {
+      "english": "It's okay to be scared, just start.",
+      "german": "Es ist okay, Angst zu haben, fang an.",
+      "category": "Courage",
+      "generated_at": "2026-08-09T13:51:11.598530"
+    },
+    {
+      "english": "One step at a time.",
+      "german": "Ein Schritt nach dem anderen.",
+      "category": "Courage",
+      "generated_at": "2026-08-09T13:51:11.598539"
+    },
+    {
+      "english": "You've got this, really.",
+      "german": "Du packst das, wirklich.",
+      "category": "Courage",
+      "generated_at": "2026-08-09T13:51:11.598540"
+    },
+    {
+      "english": "Be bold, embrace change.",
+      "german": "Sei kühn, umarme die Veränderung.",
+      "category": "Courage",
+      "generated_at": "2026-08-09T13:51:11.598541"
+    },
+    {
+      "english": "This challenge, you can overcome.",
+      "german": "Diese Herausforderung, das schaffst du.",
+      "category": "Courage",
+      "generated_at": "2026-08-09T13:51:11.598542"
     }
   ],
-  "last_updated": "2026-08-05T15:15:18.701868"
+  "last_updated": "2026-08-09T13:51:11.598544"
 }
