@@ -1,5 +1,5 @@
 """
-VELOCITY VIETNAMESE - Unified Social Media Upload Script
+VELOCITY GERMAN - Unified Social Media Upload Script
 Uploads generated reels to all connected social media platforms
 """
 
@@ -92,7 +92,7 @@ def get_latest_reel():
     return {
         "video_path": str(latest),
         "metadata": metadata,
-        "category": metadata.get("category_english", "Vietnamese Learning"),
+        "category": metadata.get("category_english", "German Learning"),
         "phrases": metadata.get("phrases", [])
     }
 
@@ -100,38 +100,38 @@ def get_latest_reel():
 def generate_caption(phrases, category, platform="facebook"):
     if platform == "facebook":
         caption_lines = [
-            f"Learn Vietnamese with VELOCITY VIETNAMESE!",
+            f"Learn German with VELOCITY GERMAN!",
             f"",
             f"Category: {category}",
             f"",
-            f"Master Vietnamese one phrase at a time! Today's {category} lesson:",
+            f"Master German one phrase at a time! Today's {category} lesson:",
             f""
         ]
         emojis = ["1", "2", "3", "4", "5"]
         for i, phrase in enumerate(phrases[:5], 0):
             emoji = emojis[i] if i < len(emojis) else f"{i+1}."
             caption_lines.append(f"{emoji}. {phrase['english']}")
-            caption_lines.append(f"   {phrase.get('vietnamese', '')}")
+            caption_lines.append(f"   {phrase.get('german', '')}")
             caption_lines.append(f"   [{phrase.get('transliteration', '')}]")
             caption_lines.append("")
         caption_lines.extend([
             f"Tip: Repeat each phrase out loud 3 times!",
             f"Like this video if you learned something new!",
             f"Comment your favorite phrase below!",
-            f"Follow for daily Vietnamese lessons!",
+            f"Follow for daily German lessons!",
             f"",
         ])
         hashtags = [
-            "#learnvietnamese", "#vietnameselessons", "#vietnameseforbeginners",
-            "#languagelearning", "#vietnamesevocabulary", "#velocityvietnamese",
-            "#dailyvietnamese", "#vietnamese", "#learnlanguages",
-            "#vietnameseteacher", "#speakvietnamese", "#vietnamesepractice",
-            "#bilingual", "#vietnamesewords", "#languagetips"
+            "#learngerman", "#germanlessons", "#germanforbeginners",
+            "#languagelearning", "#germanvocabulary", "#velocitygerman",
+            "#dailygerman", "#german", "#learnlanguages",
+            "#germanteacher", "#speakgerman", "#germanpractice",
+            "#bilingual", "#germanwords", "#languagetips"
         ]
         caption_lines.extend(hashtags)
     else:
         caption_lines = [
-            f"Learn Vietnamese with VELOCITY VIETNAMESE!",
+            f"Learn German with VELOCITY GERMAN!",
             f"",
             f"Category: {category}",
             f"",
@@ -140,12 +140,12 @@ def generate_caption(phrases, category, platform="facebook"):
         ]
         for i, phrase in enumerate(phrases[:3], 1):
             caption_lines.append(f"{i}. {phrase['english']}")
-            caption_lines.append(f"   -> {phrase.get('vietnamese', '')}")
+            caption_lines.append(f"   -> {phrase.get('german', '')}")
             caption_lines.append("")
         hashtags = [
-            "#learnvietnamese", "#vietnameselessons", "#vietnameseforbeginners",
-            "#languagelearning", "#vietnamesevocabulary", "#velocityvietnamese",
-            "#dailyvietnamese", "#vietnamese", "#learnlanguages", "#vietnameseteacher"
+            "#learngerman", "#germanlessons", "#germanforbeginners",
+            "#languagelearning", "#germanvocabulary", "#velocitygerman",
+            "#dailygerman", "#german", "#learnlanguages", "#germanteacher"
         ]
         caption_lines.extend(hashtags)
     return "\n".join(caption_lines)
@@ -164,7 +164,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
     }
 
     print("\n" + "=" * 80)
-    print("VELOCITY VIETNAMESE - MULTI-PLATFORM UPLOAD")
+    print("VELOCITY GERMAN - MULTI-PLATFORM UPLOAD")
     print("=" * 80)
     print(f"Video: {video_path}")
     print(f"Category: {category}")
@@ -194,7 +194,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
             try:
                 upload_result = None
                 if platform_name == "facebook":
-                    upload_result = upload_func(video_path=video_path, description=caption, title=f"Vietnamese: {category}")
+                    upload_result = upload_func(video_path=video_path, description=caption, title=f"German: {category}")
                 elif platform_name == "instagram":
                     upload_result = upload_func(video_path=video_path, caption=caption, is_story=False)
                 elif platform_name == "youtube":
@@ -203,7 +203,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
                     yt_title, yt_description, yt_tags = generate_video_metadata(category, num_phrases, phrases)
                     upload_result = upload_func(video_path=video_path, title=yt_title, description=yt_description, tags=yt_tags, category_id='22')
                 elif platform_name == "vk":
-                    upload_result = upload_func(video_path=video_path, description=caption, title=f"Vietnamese: {category}")
+                    upload_result = upload_func(video_path=video_path, description=caption, title=f"German: {category}")
                 elif platform_name == "telegram":
                     upload_result = upload_func(video_path=video_path, caption=caption)
                 elif platform_name == "twitter":
@@ -259,7 +259,7 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None):
 
 def main():
     print("\n" + "=" * 80)
-    print("VELOCITY VIETNAMESE - AUTOMATED UPLOAD")
+    print("VELOCITY GERMAN - AUTOMATED UPLOAD")
     print("=" * 80)
 
     reel = get_latest_reel()

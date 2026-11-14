@@ -1,13 +1,8 @@
-name: Velocity French - Daily 5x Upload
+name: Velocity German - Daily Upload
 
 on:
-  # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '0 13 * * *'  # 8:00 AM EST
-    - cron: '0 16 * * *'  # 11:00 AM EST
-    - cron: '0 19 * * *'  # 2:00 PM EST
-    - cron: '0 22 * * *'  # 5:00 PM EST
-    - cron: '0 1 * * *'   # 8:00 PM EST
+    - cron: '0 14 * * *'
 
   # Allow manual trigger for testing
   workflow_dispatch:
@@ -115,9 +110,9 @@ jobs:
           echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
           echo "✅ .env file created"
 
-      - name: 🎬 Generate French Learning Reel
+      - name: 🎬 Generate German Learning Reel
         run: |
-          echo "🚀 Starting Velocity French content generation..."
+          echo "🚀 Starting Velocity German content generation..."
           python facebook_reels_automation.py
           echo "✅ Content generation complete!"
           echo ""
@@ -135,7 +130,7 @@ jobs:
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: velocity-french-reel-${{ github.run_number }}
+          name: velocity-german-reel-${{ github.run_number }}
           path: |
             output/video/*/final_reel.mp4
             output/video/*/metadata.json
